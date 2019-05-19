@@ -1,0 +1,49 @@
+[{
+		"_id": "032-002790-01",
+		"name": "Joe Smith",
+		"address": {
+			"line1": "888 Smart Grid St",
+			"zip": "30004",
+			"city": "Atlanta",
+			"state": "GA",
+			"lat": 30.5901448,
+			"lon": -97.790054,
+			"geohash": "9v6mwd0y"
+		},
+		"bc": "03",
+		"s": "A",
+		"st": "Residential"
+	},
+	{
+		"_id": "046-087070-04",
+		"name": "Joe Foo",
+		"address": {
+			"line1": "1234  Smart Grid Dr",
+			"zip": "30004",
+			"city": "Atlanta",
+			"state": "GA",
+			"lat": 30.5191704,
+			"lon": -97.84557,
+			"geohash": "9v6mt7sv"
+		},
+		"bc": "04",
+		"s": "A",
+		"st": "Residential"
+	},
+	{
+		"_id": "093-000110-07",
+		"name": "Jenna Smith",
+		"address": {
+			"line1": "122  Smart Grid Ln",
+			"zip": "30004",
+			"city": "Atlanta",
+			"state": "GA",
+			"lat": 30.5159003,
+			"lon": -97.851667,
+			"geohash": "9v6mt70m"
+		},
+		"bc": "04",
+		"s": "A",
+		"st": "Non-Residential"
+	}
+]
