@@ -1,7 +1,16 @@
 #  Smart Grid Data Portal on Spring Boot
 
 ## What this project is about?
-The project allows browsing of Smart Grid's smart meter data on a webpage. 
+The project allows browsing of Smart Grid's smart meter data on a webpage. Written to demonstrate building microservices in Spring Boot using the following technologies
+  - Spring Boot for application wiring
+  - JPA + Hibernate for access DB
+  - Spring REST for REST
+  - Flyway for evolutionary DB
+  - Jackson for JSON
+  - Orika for bean mapping
+  - PostgreSQL db connectivity
+  - lombok, junit, mockito, spring test, h2...
+  
 
 
 ## Guides
